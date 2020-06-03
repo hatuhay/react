@@ -1,0 +1,8 @@
+
+react.page_controller_store:
+  path: '/react/form'
+  defaults:
+    _controller: '\Drupal\react\Controller\PageController::form'
+    _title: 'Form'
+  requirements:
+    _permission: 'access content'

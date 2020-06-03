@@ -1,0 +1,5 @@
+name: 'React'
+type: module
+description: 'React api'
+core: 8.x
+package: 'PLMA'

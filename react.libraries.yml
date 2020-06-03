@@ -1,0 +1,9 @@
+form:
+  version: 1.x
+  css:
+    theme:
+      css/form.css: {}
+      //cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.min.css: {type: external}
+  js:
+    js/dist/form.js: {}
+    //cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js: {type: external}

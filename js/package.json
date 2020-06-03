@@ -1,0 +1,39 @@
+{
+  "name": "react_forms",
+  "version": "1.0.0",
+  "description": "React forms Drupal integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "webpack -d --config ./webpack.config.js",
+    "watch": "webpack -d --watch --config ./webpack.config.js",
+    "prod": "webpack -p --config ./webpack.config.js"
+  },
+  "author": "Webfirst",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.10.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "node-sass": "^4.13.0",
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "react-redux": "5.0.6",
+    "redux": "3.7.2",
+    "redux-form": "7.0.4",
+    "redux-form-website-template": "0.0.41",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "react-scripts": "1.0.0",
+    "typescript": "3.3.3",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
