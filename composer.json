@@ -1,0 +1,14 @@
+{
+  "name": "hatuhay/react",
+  "type": "drupal-module-custom",
+  "description": "Form Drupal react integration",
+  "keywords": ["Drupal", "React"],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "hatuhay",
+      "email": "alberto@siles.pe"
+    }
+  ],
+  "require": {}
+}
