@@ -1,6 +1,6 @@
 {
   "name": "hatuhay/react",
-  "type": "drupal-module-custom",
+  "type": "drupal-custom-module",
   "description": "Form Drupal react integration",
   "keywords": ["Drupal", "React"],
   "license": "proprietary",
